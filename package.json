@@ -1,7 +1,7 @@
 {
-  "name": "free-sc-mini",
-  "version": "1.0.2",
-  "description": "A WhatsApp Bot with Multi-Number Support",
+  "name": "jamali-md",
+  "version": "1.0.0",
+  "description": "JAMALI MD - Advanced WhatsApp Bot with Multi-Number Support",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -13,18 +13,18 @@
     "fs-extra": "^11.2.0",
     "pino": "^8.17.0",
     "jimp": "^0.22.12",
-    "@dark-yasiya/scrap":"1.0.1",
+    "@dark-yasiya/scrap": "1.0.1",
     "@octokit/rest": "^20.0.2",
-    "denethdev-ytmp3":"1.0.3",
+    "denethdev-ytmp3": "1.0.3",
     "cheerio": "1.1.0",
     "gradient-string": "^2.0.2",
     "ruhend-scraper": "9.0.1",
-    "@google/genai":"1.22.0",
+    "@google/genai": "1.22.0",
     "yt-search": "2.12.1",
     "fluent-ffmpeg": "^2.1.2",
     "ffmpeg-static": "^5.1.0",
     "node-fetch": "3.3.2",
-    "sharp":"0.32.2",
+    "sharp": "0.32.2",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "file-type": "21.0.0",
     "axios": "^1.2.5",
@@ -42,8 +42,9 @@
     "bot",
     "multi-device",
     "baileys",
-    "malvin-xd"
+    "jamali-md",
+    "jamali-tech"
   ],
-  "author": "Mr XDKING",
+  "author": "JAMALI TECH",
   "license": "MIT"
 }
