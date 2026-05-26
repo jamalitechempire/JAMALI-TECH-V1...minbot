@@ -1,11 +1,13 @@
 {
-    "name": "free-sc-mini",
-    "description": "mini web bot",
-    "logo": "https://files.catbox.moe/sb24ud.jpg",
-    "repository": "https://github.com/XdKing2/free-sc-mini",
+    "name": "jamali-md",
+    "description": "JAMALI MD - Advanced WhatsApp Bot with Multi-Number Support",
+    "logo": "https://files.catbox.moe/xney4v.jpg",
+    "repository": "https://github.com/JamaliTech/jamali-md",
     
     "keywords": [
-    "malvin-xd","XdKing2"
+        "jamali-md",
+        "jamali-tech",
+        "whatsapp-bot"
     ],
     
     "success_url": "/", 
@@ -17,5 +19,4 @@
         "required": false 
       }
     }   
-
 }
